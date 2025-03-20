@@ -3,6 +3,7 @@
 👋 Hi, I'm Amr – a Software QA Engineer with expertise in QA Automation, Functional & Non-Functional Testing, AI Testing, and Performance Testing. Passionate about innovation, quality, and efficiency in software development.
 
 🌟 About Me
+
 🎯 6+ years of QA expertise across 12+ industries, including Finance, AI, Retail, Gaming, Healthcare, eCommerce, Real Estate, and more.
 🔍 Test Automation Specialist | Expertise in Web, Mobile, API, AI, and Performance Testing.
 🏆 Industry Leader | Blending manual & automation testing to deliver high-quality software.
