@@ -1,5 +1,3 @@
-🚀 Amr Rashad - Software QA Engineer
-
 👋 Hi, I'm Amr – a Software QA Engineer with expertise in QA Automation, Functional & Non-Functional Testing, AI Testing, and Performance Testing. Passionate about innovation, quality, and efficiency in software development.
 
 🌟 About Me
