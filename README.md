@@ -38,7 +38,7 @@ Contributions & Achievements
 🔹 Collaborated with cross-functional teams to refine test strategies and improve software quality.
 
 🚀 Interested in collaboration or discussing QA strategies? Let’s connect!
-📌 [LinkedIn]([https://www.linkedin.com/in/amrrashad000/)
+📌 [LinkedIn:https://www.linkedin.com/in/amrrashad000/)
 📌 GitHub: github.com/amrrashad1999
 📌 Email: amr.rashad1999@gmail.com
 📌 Phone: +201063828288
