@@ -3,14 +3,14 @@
 👋 Hi, I'm Amr – a Software QA Engineer with expertise in QA Automation, Functional & Non-Functional Testing, AI Testing, and Performance Testing. Passionate about innovation, quality, and efficiency in software development.
 
 🌟 About Me
-🎯 6+ Years of Experience Across Industries | Worked across Finance, E-commerce, Healthcare, Retail, Banking, AI, Gaming, Telecom, and more.
+🎯 6+ years of QA expertise across 12+ industries, including Finance, AI, Retail, Gaming, Healthcare, eCommerce, Real Estate, and more.
 🔍 Test Automation Specialist | Expertise in Web, Mobile, API, AI, and Performance Testing.
 🏆 Industry Leader | Blending manual & automation testing to deliver high-quality software.
 🌍 Global Mindset | Based in Egypt, open to global opportunities and collaborations.
+ Passionate about innovation, test optimization, and delivering high-quality software.
 
-📞 Get in Touch:
-📩 Email: amr.rashad1999@gmail.com
-📱 Phone: +201063828288
+
+
 
 🚀 Tech Stack & Tools
 💻 Automation: Selenium | TestNG | Cucumber | Appium | RestAssured | Cypress | Codebase
@@ -20,6 +20,7 @@
 🤖 AI Testing: Smart Element Locators | AI-based Automation
 🔗 API Testing: Postman | Swagger
 🐞 Bug Tracking: TFS | Bugzilla | JIRA | Trello | Asana | Monday
+📝 Test Case Creation: TestRail | Xray | Microsoft Excel
 
 🔥 My Top Projects
 - 🚀 [QA Automation - Web](https://github.com/amrrashad1999/QA_Automation-Web) *(Selenium + TestNG + Page Object Model)*
@@ -40,7 +41,7 @@ Contributions & Achievements
 🚀 Interested in collaboration or discussing QA strategies? Let’s connect!
 📌 [LinkedIn:https://www.linkedin.com/in/amrrashad000/)
 📌 GitHub: github.com/amrrashad1999
-📌 Email: amr.rashad1999@gmail.com
-📌 Phone: +201063828288
+📩 Email: amr.rashad1999@gmail.com
+📞 Phone: +201063828288
 
 "Quality is never an accident; it is always the result of intelligent effort." - John Ruskin 
