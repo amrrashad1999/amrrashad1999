@@ -2,7 +2,7 @@
 
 🌟 About Me
 
-🎯 5+ years of QA expertise across 12+ industries, including Finance, AI, Retail, Gaming, Healthcare, eCommerce, Real Estate, and more.
+🎯 6+ years of QA expertise across 12+ industries, including Finance, AI, Retail, Gaming, Healthcare, eCommerce, Real Estate, and more.
 
 🔍 Test Automation Specialist | Expertise in Web, Mobile, API, AI, and Performance Testing.
 
